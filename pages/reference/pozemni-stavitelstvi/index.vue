@@ -32,7 +32,7 @@
                     <div class="col-sm-6 col-md-3 col-lg-3">
                         <div class="portfolio-item">
                             <div class="hover-bg">
-                                <nuxt-link to="/reference/jump" title="Jump Ústí n.L.">
+                                <nuxt-link to="/reference/pozemni-stavitelstvi/jump" title="Jump Ústí n.L.">
                                     <div class="hover-text">
                                         <h4>Přepsat h4</h4>
                                     </div>

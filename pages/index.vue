@@ -8,7 +8,7 @@
                         <div class="row">
                             <div class="col-md-8 col-md-offset-2 intro-text">
                                 <h1>Montážní a stavební společnost VOSTAV s.r.o.</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+                                <p>Zaměřujeme se na komplexní realizace zdravotně technických instalací,včetně projekční přípravy a následného servisu.</p>
                                 <nuxt-link :to="{path: '/', hash: '#about'}" class="btn btn-custom btn-lg page-scroll">Více o naší firmě</nuxt-link>
                             </div>
                         </div>
@@ -47,18 +47,18 @@
                             <div class="list-style">
                                 <div class="col-lg-6 col-sm-6 col-xs-12">
                                     <ul>
-                                        <li>Years of Experience</li>
-                                        <li>Fully Insured</li>
-                                        <li>Cost Control Experts</li>
-                                        <li>100% Satisfaction Guarantee</li>
+                                        <li>100% orientace na zákazníka</li>
+                                        <li>rychlá a kvalitní realizace zakázek</li>
+                                        <li>záruční i pozáruční servis</li>
+                                        <li>odbornost pracovníků</li>
                                     </ul>
                                 </div>
                                 <div class="col-lg-6 col-sm-6 col-xs-12">
                                     <ul>
-                                        <li>Free Consultation</li>
-                                        <li>Satisfied Customers</li>
-                                        <li>Project Management</li>
-                                        <li>Affordable Pricing</li>
+                                        <li>certifikace prováděných prací</li>
+                                        <li>projektová dokumentace</li>
+                                        <li>spolupráce se silnými partnery</li>
+                                        <li>realizace velkých ZTI a TZB zákázek </li>
                                     </ul>
                                 </div>
                             </div>
@@ -233,30 +233,90 @@
         <section id="certificates">
             <div class="container">
                 <div class="section-title">
-                    <h2>Certifikáty</h2>
+                    <h2>Certifikáty, oprávnění, osvědčení</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-3">
                         <div class="testimonial">
                             <div>
-                                <img v-img:certificates :src="require('@/assets/img/reference/pozemni-stavitelstvi/londynska/06-large.jpg')" height="150">
+                                <img v-img:certificates :src="require('@/assets/img/certifikaty/alpex.jpg')" height="150">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial">
                             <div>
-                                <img v-img:certificates :src="require('@/assets/img/reference/pozemni-stavitelstvi/londynska/06-large.jpg')" height="150">
+                                <img v-img:certificates :src="require('@/assets/img/certifikaty/buderus.jpg')" height="150">
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="testimonial">
-                            <div>
-                                <img v-img:certificates :src="require('@/assets/img/reference/pozemni-stavitelstvi/londynska/06-large.jpg')" height="150">
-                            </div>
+                    </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/elektro.jpg')" height="150">
                         </div>
                     </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo1.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/nibe.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/plasty.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/revizeplyn.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/stavby.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr1.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn.jpg')" height="150">
+                        </div>
+                    </div>
+                </div><div class="col-md-3">
+                    <div class="testimonial">
+                        <div>
+                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn1.jpg')" height="150">
+                        </div>
+                    </div>
+                </div>
+
 
                     <!--                    <div class="col-md-4">-->
                     <!--                        <div class="testimonial">-->
@@ -294,7 +354,8 @@
                             Ústí nad Labem - Střekov, 403 02</p>
                     </div>
                     <div class="contact-item">
-                        <p><span>Telefon</span> (+420) 601 100 559 <br> Petr Vágner - vedoucí projektů - odpovědná osoba</p>
+                        <p><span>Telefon</span> (+420) 601 100 559 <br> Petr Vágner - vedoucí stavebního střediska - odpovědná osoba</p>
+                        <p>(+420) 725 925 102 <br> Ing.Aleš Klapka - vedoucí střediska TZB</p>
                         <p>(+420) 720 117 335 <br> Jan Salava - jednatel</p>
                     </div>
                     <div class="contact-item">
@@ -320,6 +381,7 @@
         </section>
     </div>
 </template>
+
 
 <script>
 
