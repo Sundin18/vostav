@@ -239,80 +239,80 @@
                     <div class="col-md-3">
                         <div class="testimonial">
                             <div>
-                                <img v-img:certificates :src="require('@/assets/img/certifikaty/alpex.jpg')" height="150">
+<!--                                <img v-img:certificates :src="require('@/assets/img/certifikaty/alpex.jpg')" height="150">-->
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial">
                             <div>
-                                <img v-img:certificates :src="require('@/assets/img/certifikaty/buderus.jpg')" height="150">
+<!--                                <img v-img:certificates :src="require('@/assets/img/certifikaty/buderus.jpg')" height="150">-->
                             </div>
                         </div>
                     </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/elektro.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/elektro.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo1.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo1.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/nibe.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/nibe.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/plasty.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/plasty.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/revizeplyn.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/revizeplyn.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/stavby.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/stavby.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr1.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr1.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn.jpg')" height="150">-->
                         </div>
                     </div>
                 </div><div class="col-md-3">
                     <div class="testimonial">
                         <div>
-                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn1.jpg')" height="150">
+<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn1.jpg')" height="150"> -->
                         </div>
                     </div>
                 </div>
