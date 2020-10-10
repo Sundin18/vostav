@@ -364,6 +364,9 @@
                     <div class="contact-item">
                         <p><span>IČO, DIČ</span> 072 16 211</p>
                     </div>
+                  <div class="contact-item">
+                    <p><a href="documents/Zadost_zdravotni_prohlidka.pdf" class="condition">Všeobecné podmínky</a> </p>
+                  </div>
                 </div>
                 <!--                <div class="col-md-12">-->
                 <!--                    <div class="row">-->
@@ -395,5 +398,14 @@
         padding: 10px;
         box-shadow: #1f386e;
         text-align: center;
+    }
+
+    .condition {
+      color: white;
+      text-decoration: underline;
+    }
+
+    .condition :hover {
+      text-decoration: none;
     }
 </style>
