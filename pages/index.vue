@@ -6,7 +6,7 @@
                 <div class="overlay">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-8 col-md-offset-2 intro-text">
+                            <div class="intro-text">
                                 <h1>Montážní a stavební společnost VOSTAV s.r.o.</h1>
                                 <p>Zaměřujeme se na komplexní realizace zdravotně technických instalací,včetně projekční přípravy a následného servisu.</p>
                                 <nuxt-link :to="{path: '/', hash: '#about'}" class="btn btn-custom btn-lg page-scroll">Více o naší firmě</nuxt-link>
@@ -16,6 +16,7 @@
                 </div>
             </div>
         </header>
+
 
         <!-- Get Touch Section -->
         <section id="get-touch">
@@ -42,7 +43,8 @@
                         <div class="about-text">
                             <h2>Kdo jsme</h2>
                             <p>Jsme mladá firma s velmi zkušeným týmem v oboru instalatérství, stavební činnosti, elektronického a kamerového zabezpečení budov.
-                                Klademe důraz na spokojenost zákazníka, kterému se snažíme nabídnout cenově přijatelné služby při zachování vysoké kvality odvedené práce.</p>
+                                Klademe důraz na spokojenost zákazníka, kterému se snažíme nabídnout cenově přijatelné služby při zachování vysoké kvality
+                                odvedené práce.</p>
                             <h3>Proč právě nás?</h3>
                             <div class="list-style">
                                 <div class="col-lg-6 col-sm-6 col-xs-12">
@@ -58,7 +60,7 @@
                                         <li>certifikace prováděných prací</li>
                                         <li>projektová dokumentace</li>
                                         <li>spolupráce se silnými partnery</li>
-                                        <li>realizace velkých ZTI a TZB zákázek </li>
+                                        <li>realizace velkých ZTI a TZB zákázek</li>
                                     </ul>
                                 </div>
                             </div>
@@ -80,7 +82,8 @@
                         <div class="service-desc">
                             <h3>Vodoinstalatérství</h3>
                             <p>
-                                Provádíme všechny potřebné instalatérské práce velkého i malého rozsahu a jejich následný servis. Máme dlouholeté zkušenosti s instalacemi
+                                Provádíme všechny potřebné instalatérské práce velkého i malého rozsahu a jejich následný servis. Máme dlouholeté zkušenosti s
+                                instalacemi
                                 v průmyslových objektech, výrobních halách, rodinných domů, bytů i chalup. Zajištujeme
                                 rozvody vody v plastu, mědi a kovu, dodávky a montáže sanitárních zařízení.
                                 Zřizujeme požární rozvody a montáže hydrantových zařízení.
@@ -92,7 +95,8 @@
                         <div class="service-desc">
                             <h3>Vodovody, kanalizace</h3>
                             <p>
-                                Zřizujeme veškeré přípojky vody, plynu a kanalizace. Dodáváme a montujeme veškeré přípojky vody, plynu, podtlakové i tlakové kanalizace,
+                                Zřizujeme veškeré přípojky vody, plynu a kanalizace. Dodáváme a montujeme veškeré přípojky vody, plynu, podtlakové i tlakové
+                                kanalizace,
                                 přečerpávací zařízení, rozvody, kanalizace v plastu, v kamenině, litině. Provádíme zasíťování nových developerských projektů.
                                 Vyřizujeme veškerá potřebná povolení spojená se zimními pracemi.
                             </p>
@@ -103,9 +107,12 @@
                         <div class="service-desc">
                             <h3>Zavlažování</h3>
                             <p>
-                                Provádíme kompletní instalace automatických závlahových systémů pro velké i malé zahrady, parky a sportoviště. Zajištujeme návrh závlahového systému,
-                                provedení zemních výkopových prací a uložení zeminy, instalace potrubních rozvodů,montáž a osazení postřikovačů, instalace ovládací jednotky,
-                                seřízení systému, tlakové zkušky a následné začisťovací terénní úpravy a ošetření trávníku. Úzce spolupracujeme s hlavním dovozcem výrobků
+                                Provádíme kompletní instalace automatických závlahových systémů pro velké i malé zahrady, parky a sportoviště. Zajištujeme návrh
+                                závlahového systému,
+                                provedení zemních výkopových prací a uložení zeminy, instalace potrubních rozvodů,montáž a osazení postřikovačů, instalace
+                                ovládací jednotky,
+                                seřízení systému, tlakové zkušky a následné začisťovací terénní úpravy a ošetření trávníku. Úzce spolupracujeme s hlavním
+                                dovozcem výrobků
                                 celesvětové špičky na trhu v AZS firmy HUNTER.
                             </p>
                         </div>
@@ -128,7 +135,8 @@
                         <div class="service-desc">
                             <h3>Stavební činnost</h3>
                             <p>
-                                Provádíme dodávky a realizace staveb pozemního, průmyslového a občanského charakteru, bourací práce, opravy, sanace, zednické práce,
+                                Provádíme dodávky a realizace staveb pozemního, průmyslového a občanského charakteru, bourací práce, opravy, sanace, zednické
+                                práce,
                                 základy a zakládaní staveb, hrubé stavby, přístavby, vestavby, nástavby, realizace půdních vestaveb, sádrokartony,
                                 rekonstrukce a úpravy intériérů, rekonstrukce bytových jader, chodníky, pojezdové plochy a komunikace.
                                 Vyřídíme veškerou projektovou dokumentaci a povolení potřebné k realizaci stavebního díla.
@@ -168,7 +176,8 @@
                             <p>
                                 Zajištujeme instalaci a následný servis chytrých kamerových systemů pro ochranu a monitoring průmyslových objektů, obchodů, hal,
                                 činžovních a rodinných domů. Připravíme projekt a najdeme společně nejlepší řešení pro vaši potřebu video sledování za použití
-                                nejnovějších systemů chytrých kamer s funkcí panorama, naklánění a zoomu, thermo bi-spektrálních kamer určených k detekci požárů,
+                                nejnovějších systemů chytrých kamer s funkcí panorama, naklánění a zoomu, thermo bi-spektrálních kamer určených k detekci
+                                požárů,
                                 kamer pro analýzu provozu a správu front, vysoce citlivých kamer pro čtení SPZ, kamer do výbušných prostředí. Používáme
                                 osvědčené výrobce kamer a záznamových zařízení, které zajištují spolehlivý chod a příjemné uživatelské prostředí
                                 při vzdáleném přístupu k video záznamu.
@@ -211,19 +220,19 @@
                     </div>
                 </div>
                 <div class="row">
-                        <div class="col-sm-6 col-md-6 col-lg-6">
-                            <div class="my-card">
-                                <h4>
-                                    <nuxt-link to="">Kanalizace</nuxt-link>
-                                </h4>
-                            </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="my-card">
+                            <h4>
+                                <nuxt-link to="">Kanalizace</nuxt-link>
+                            </h4>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-6">
-                            <div class="my-card">
-                                <h4>
-                                    <nuxt-link to="">Ostatní</nuxt-link>
-                                </h4>
-                            </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="my-card">
+                            <h4>
+                                <nuxt-link to="">Ostatní</nuxt-link>
+                            </h4>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -239,83 +248,94 @@
                     <div class="col-md-3">
                         <div class="testimonial">
                             <div>
-<!--                                <img v-img:certificates :src="require('@/assets/img/certifikaty/alpex.jpg')" height="150">-->
+                                <!--                                <img v-img:certificates :src="require('@/assets/img/certifikaty/alpex.jpg')" height="150">-->
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="testimonial">
                             <div>
-<!--                                <img v-img:certificates :src="require('@/assets/img/certifikaty/buderus.jpg')" height="150">-->
+                                <!--                                <img v-img:certificates :src="require('@/assets/img/certifikaty/buderus.jpg')" height="150">-->
                             </div>
                         </div>
-                    </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/elektro.jpg')" height="150">-->
+                    </div>
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/elektro.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo1.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/frabo1.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/nibe.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/nibe.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/plasty.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/plasty.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/revizeplyn.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/revizeplyn.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/stavby.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/stavby.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr1.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/opr1.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn.jpg')" height="150">-->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn.jpg')" height="150">-->
+                            </div>
                         </div>
                     </div>
-                </div><div class="col-md-3">
-                    <div class="testimonial">
-                        <div>
-<!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn1.jpg')" height="150"> -->
+                    <div class="col-md-3">
+                        <div class="testimonial">
+                            <div>
+                                <!--                            <img v-img:certificates :src="require('@/assets/img/certifikaty/ticrplyn1.jpg')" height="150"> -->
+                            </div>
                         </div>
                     </div>
-                </div>
 
 
                     <!--                    <div class="col-md-4">-->
@@ -340,9 +360,9 @@
                             <h2>Kontakty</h2>
                         </div>
                         <span><iframe
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1266.382915645279!2d14.0643403!3d50.5943056!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470983c945f88107%3A0x71f64ba22aba8486!2zU2VidXrDrW4gNDEsIDQwMyAwMiDDmnN0w60gbmFkIExhYmVtLVN0xZlla292!5e0!3m2!1scs!2scz!4v1546210561752"
-                                width="650" height="440" frameborder="0" style="border:0"
-                                allowfullscreen></iframe></span>
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1266.382915645279!2d14.0643403!3d50.5943056!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470983c945f88107%3A0x71f64ba22aba8486!2zU2VidXrDrW4gNDEsIDQwMyAwMiDDmnN0w60gbmFkIExhYmVtLVN0xZlla292!5e0!3m2!1scs!2scz!4v1546210561752"
+                            width="650" height="440" frameborder="0" style="border:0"
+                            allowfullscreen></iframe></span>
                     </div>
                 </div>
                 <div class="col-md-3 col-md-offset-1 contact-info">
@@ -364,9 +384,9 @@
                     <div class="contact-item">
                         <p><span>IČO, DIČ</span> 072 16 211</p>
                     </div>
-                  <div class="contact-item">
-                    <p><a href="documents/Zadost_zdravotni_prohlidka.pdf" class="condition">Všeobecné podmínky</a> </p>
-                  </div>
+                    <div class="contact-item">
+                        <p><a href="documents/Zadost_zdravotni_prohlidka.pdf" class="condition">Všeobecné podmínky</a></p>
+                    </div>
                 </div>
                 <!--                <div class="col-md-12">-->
                 <!--                    <div class="row">-->
@@ -387,25 +407,64 @@
 
 
 <script>
+export default {
+    data() {
+        return {
+            slide: 0,
+            sliding: null
+        }
+    },
+    methods: {
+        onSlideStart(slide) {
+            this.sliding = true
+        },
+        onSlideEnd(slide) {
+            this.sliding = false
+        },
+        setHeaderBackground() {
+            let ele = document.getElementsByClassName('overlay');
+            let backgrounds = [
+                'url(img/overlay.jpg)',
+                'url(img/onas.jpg)',
+                'url(img/about.jpg)',
+                'url(img/overlay.jpg)'
+            ];
 
-    export default {}
+            let current = 0;
+
+            function nextBackground() {
+                current++;
+                current = current % backgrounds.length;
+                ele[0].style.backgroundImage = backgrounds[current];
+            }
+
+            setInterval(nextBackground, 5000);
+
+            ele[0].style.backgroundImage = backgrounds[0];
+            ele[0].style.backgroundSize = 'cover';
+        }
+    },
+    mounted() {
+        this.setHeaderBackground();
+    }
+}
 </script>
 
 <style>
-    .my-card {
-        border: 1px solid lightgray;
-        margin: 10px 0;
-        padding: 10px;
-        box-shadow: #1f386e;
-        text-align: center;
-    }
+.my-card {
+    border: 1px solid lightgray;
+    margin: 10px 0;
+    padding: 10px;
+    box-shadow: #1f386e;
+    text-align: center;
+}
 
-    .condition {
-      color: white;
-      text-decoration: underline;
-    }
+.condition {
+    color: white;
+    text-decoration: underline;
+}
 
-    .condition :hover {
-      text-decoration: none;
-    }
+.condition :hover {
+    text-decoration: none;
+}
 </style>
